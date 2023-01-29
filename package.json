@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ross2527/Week6.git"
+    "url": "https://github.com/ross2527/Week6-Project.git"
+
   },
   "keywords": [
     "Html",
@@ -22,9 +23,9 @@
   "author": "rosie kirianov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ross2527/Week6/issues"
+    "url": "https://github.com/ross2527/Week6-Project/issues"
   },
-  "homepage": "https://github.com/ross2527/Week6#readme",
+  "homepage": "https://github.com/ross2527/Week6-Project#readme",
   "devDependencies": {
     "chai": "^4.3.7",
     "mocha": "^10.2.0"
